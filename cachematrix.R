@@ -1,7 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
+## This is the solution to the Programming R second programming assignment.
 
 ##
 ## The function, makeCacheMatrix creates a special matrix, which is really a list
