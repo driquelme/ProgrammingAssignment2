@@ -21,9 +21,6 @@ makeCacheMatrix <- function(x = matrix()) {
   list(set=set, get=get, setinverse=setinverse, getinverse=getinverse)
 }
 
-
-## Write a short comment describing this function
-
 ##
 ## The function, cacheSolve calculates the inverse os the special matrix 
 ## created with makeCacheMatrix.
